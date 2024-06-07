@@ -1,151 +1,151 @@
 Rank,Title,Age(hours),Points,Comments
-1,Ice - open source bar manager for macOS (github.com/jordanbaird),10,147,2
-2,CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs (github.com/sosy-lab),13,73,5
-3,I learned Vulkan and wrote a small game engine with it (edw.is),29,487,20
-4,Roman Roads (2017) (sashamaps.net),26,375,18
-5,US has the highest rate of maternal deaths among rich nations. Norway has zero (cnn.com),9,65,1
-6,AeroSpace is an i3-like tiling window manager for macOS (github.com/nikitabobko),27,387,19
-7,Extracting concepts from GPT-4 (openai.com),22,279,14
-8,Saint Michael Sword: Are the cathedrals really on a straight line? (geospatial.netlify.app),30,321,21
-9,"lsix: Like ""ls"", but for images (github.com/hackerb9)",24,246,16
-10,Show HN: 2d web paddle game (raould.github.io),56,215,15
-11,Don Estridge: A misfit who built the IBM PC (every.to/the-crazy-ones),28,187,18
-12,Super Heavy has splashed down in The Gulf of Mexico (twitter.com/spacex),26,670,18
-13,"Brain overgrowth dictates autism severity, new research suggests (medicalxpress.com)",27,136,19
-14,Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager,14,0,6
-15,Stupid Slow: The Perceived Speed of Computers (datagubbe.se),12,59,4
-16,AI in software engineering at Google: Progress and the path ahead (research.google),20,144,12
-17,"Show HN: XPipe, a brand-new type of remote file browser and shell connection hub (xpipe.io)",23,87,15
-18,Let rand = main as usize (2022) (codeandbitters.com),21,115,13
-19,"Martha Gellhorn, the only woman to report on the D-Day landings from the ground (smithsonianmag.com)",26,129,18
-20,Understanding QEMU Devices (2018) (qemu.org),30,149,22
-21,Hybrid Bonding: 3D Chip Tech to Save Moore's Law (ieee.org),52,25,10
-22,Shu Ha Ri (2014) (martinfowler.com),19,51,11
-23,Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te (pentagrid.ch),55,72,17
-24,Dragonfly: A large vision-language model with multi-resolution zoom (together.ai),21,117,13
-25,Reading awc (akamayu-ouo.srht.site),58,46,13
-26,Show HN: Synthesize TikZ Graphics Programs for Scientific Figures and Sketches (github.com/potamides),27,105,19
-27,Uganda's surveillance state is built on national ID cards (bloomberg.com),16,114,8
-28,Qwen2 LLM Released (qwenlm.github.io),23,219,15
-29,Make your program slower with threads (2014) (brooker.co.za),16,124,8
-30,Compromised Visions Are Superior (ericnormand.substack.com),57,63,14
-31,"Squatting in Spain: Understanding Spain's ""okupas"" problem (idealista.com)",47,169,1
-32,The right not to be subjected to AI profiling based on publicly available data (springer.com),25,244,17
-33,Boeing Starliner launches first crewed mission (bbc.co.uk),48,634,1
-34,Show HN: Interviews Chat – Never bomb another job interview with this AI copilot (interviews.chat),28,51,20
-35,Vulkan1.3 on the M1 in one month (rosenzweig.io),48,806,1
-36,The problem with lying is keeping track of all the lies (materialize.com),18,87,10
-37,Generative AI Handbook: A Roadmap for Learning Resources (genai-handbook.github.io),15,4,7
-38,An Interview with Lola De La Mata about tinnitus (thequietus.com),21,111,13
-39,TPM GPIO fail: How bad OEM firmware ruins Intel TPM security (mkukri.xyz),35,175,1
-40,3D Math Primer for Graphics and Game Development (2011) (gamemath.com),25,113,17
-41,Tesla Cybertruck Loses to Model X in Towing Range Test – Again (thedrive.com),16,30,8
-42,Televised Music Is a Pointless Rigmarole (1968) (theparisreview.org),68,43,1
-43,Mathematical Optimization for Cargo Ships (research.google),63,312,1
-44,Show HN: Mark Scroll Positions (rugu.dev),43,31,18
-45,Adobe responds to vocal uproar over new Terms of Service language (venturebeat.com),11,9,3
-46,Mitsubishi robot solves Rubik's Cube in 0.305s (soranews24.com),34,278,1
-47,"Most life on Earth is dormant, after pulling an 'emergency brake' (quantamagazine.org)",38,277,1
-48,"PSA: If you're a fan of ATmega, try AVR Dx (lcamtuf.substack.com)",36,143,1
-49,Researchers to retract landmark Alzheimer's paper containing doctored images (science.org),44,277,1
-50,Costco is building out an ad business using its shoppers' data (marketingbrew.com),19,65,11
-51,"Walmart Just Announced a Brand-New Way to Track Customers, & It All Starts Today (inc.com)",15,24,7
-52,Computer Networks: A Systems Approach (2019) (systemsapproach.org),48,122,1
-53,"A social app for creatives, Cara, grew 10x as artists tire of Meta's AI policies (techcrunch.com)",15,11,7
-54,What's Next for ASML? [video] (youtube.com),16,17,8
-55,Omakub – A Developer Setup for Ubuntu (omakub.org),41,97,1
-56,Dr. George Merryweather's 1851 Tempest Prognosticator (victorianweb.org),49,11,12
-57,Mike Lynch cleared in Autonomy fraud trial (theregister.com),19,46,11
-58,Implementing the Goodfellow GANs paper (ym2132.github.io),65,100,1
-59,Boeing's starliner docks at ISS after five thrusters unexpectedly shut off (gizmodo.com),19,112,11
-60,Show HN: zfind – CLI like find but using SQL syntax and also does tar/zip (github.com/laktak),55,113,1
-61,GLM-4-9B: open-source model with superior performance to Llama-3-8B (github.com/thudm),45,55,1
-62,Major cause of inflammatory bowel disease discovered (crick.ac.uk),46,54,1
-63,Microsoft AI spying scandal: time to rethink privacy standards (ieee.org),37,856,1
-64,Show HN: Foosbar – My autonomous foosball-playing robot (github.com/misprit7),48,314,1
-65,ShadowFinder: Find possible locations of shadows around the world (github.com/bellingcat),68,69,1
-66,Humane Seeks $1B Buyout (nytimes.com),12,5,4
-67,Dutch political websites hit by cyber attacks as EU voting starts (cloudflare.com),20,19,12
-68,We improved the performance of a userspace TCP stack in Go (coder.com),47,220,1
-69,Our Man in Fotheringhay (literaryreview.co.uk),58,17,1
-70,Show HN: I created this land use visualisation for the Netherlands (koenvangilst.nl),22,8,14
-71,Architectures for Central Server Collaboration (mattweidner.com),64,79,17
-72,Durability of Polymers in the Space Environment [pdf] (nasa.gov),33,22,1
-73,History of the Paper Clip (2016) (officemuseum.com),47,79,1
-74,Minimalistic Beat Maker (martinwecke.de),57,232,1
-75,CSS Cap Unit (ishadeed.com),43,39,1
-76,Mycotoxin contamination in organic and conventional cereal grain and products (wiley.com),39,29,1
-77,Photoshop ToS grants Adobe access to user projects for 'content moderation' (nichegamer.com),40,213,1
-78,"US Payroll Gains Not as Robust as Reported, New Data Suggest (bloomberg.com)",20,27,12
-79,Telegram Stars: Pay for Digital Goods and More (telegram.org),22,55,14
-80,Workplace discrimination: another terrible thing Windows Recall might enable (ericwbailey.website),15,10,7
-81,My Programming Journey (gavinhoward.com),55,31,21
-82,A primer on the next generation of antibodies (abhishaike.com),46,50,1
-83,How Much Water Is in Earth's Crust? (worldatlas.com),27,38,19
-84,Linguistic Antipatterns (linguistic-antipatterns.com),13,18,5
-85,How the Fourier Transform Works: Abstract Concepts Made Simple (howthefouriertransformworks.com),12,11,4
-86,Artists are fleeing Instagram to keep their work out of Meta's AI (washingtonpost.com),26,64,18
-87,NASA Software Safety Guidebook [pdf] (nasa.gov),27,46,19
-88,Mexico man dies from first human case of bird flu strain H5N2 (theguardian.com),26,33,18
-89,The secret D-Day scientists and engineers (bbc.com),24,29,16
-90,Show HN: I built an app that personalizes home workouts (parianlabs.com),63,33,1
-91,Show HN: I built an app that personalizes home workouts (parianlabs.com),63,33,1
-92,"Entropy, a CLI that scans files to find high entropy lines (might be secrets) (github.com/ewenquim)",68,241,2
-93,Third-country imports apply pressure amidst German aluminium production decline (packagingeurope.com),44,17,1
-94,"Show HN: Laudspeaker – Open-source mobile push, SMS and email automation (github.com/laudspeaker)",48,189,1
-95,LLM Running for Wyoming Mayor (oilcity.news),17,12,9
-96,Evidence of Earth's First Rains Found Trapped Within Primordial Crystals (sciencealert.com),13,5,5
-97,Primitive Technology: Making Charcoal in a Closed Pot [video] (youtube.com),13,5,5
-98,Hetzner lowers pricing of Intel cloud servers (hetzner.com),31,68,23
-99,How big a deal was the Industrial Revolution? (2017) (lukemuehlhauser.com),45,88,1
-100,What no one has seen before: gravitational waveforms from warp drive collapse (arxiv.org),50,157,1
-101,Managing my motivation as a solo dev (mbuffett.com),47,317,1
-102,Jury Finds Boeing Stole Tech from Electric Airplane Startup (govtech.com),43,124,1
-103,Sui – The Next Generation Shortcut User Interface (github.com/shortcutui),36,11,1
-104,Particle accelerators for the microchip era (moore.org),68,110,2
-105,Simple tasks showing reasoning breakdown in state-of-the-art LLMs (arxiv.org),49,360,1
-106,Feature flags in Bazel builds (pigweed.dev),45,44,1
-107,"Miyazaki Might Be Right: Cases of a Town, a City, a Province, & a Country (population.fyi)",45,49,1
-108,Arm64 on GitHub Actions (github.blog),58,245,2
-109,Shopify is acquiring the Threads team (threads.com),12,62,4
-110,Researchers identify major driver of inflammatory bowel and related diseases (theguardian.com),47,231,1
-111,Show HN: I built a tool for (formal) model-based specification and testing (provengo.tech),24,6,16
-112,Stable Audio Open (stability.ai),46,192,1
-113,"Adam Smith, the Prophet of Profit (historytoday.com)",34,13,1
-114,Prototype of AROS ABIv0 emulator for 64-bit AROS (arosworld.org),50,28,1
-115,Some notes on influenceering (lcamtuf.substack.com),67,260,2
-116,Read James Joyce's Filthy Letters to His Wife Nora Barnacle (allthatsinteresting.com),15,5,7
-117,Political elites take advantage of anti-partisan protests to disrupt politics (phys.org),17,6,9
-118,Elite squad of Ukrainian fighters have been battling Russian occupation (theglobeandmail.com),14,15,6
-119,Blistering fast Mandelbrot rendering in Rust (2021) (gcardone.net),45,12,1
-120,"Stress bragging may make you seem less competent, less likable at work (phys.org)",19,6,11
-121,You'll regret using natural keys (ploeh.dk),62,721,2
-122,Show HN: Pipedream now has 2100+ API integrations (pipedream.com),41,16,1
-123,How to build a DOA product: Humane AI Pin founders banned internal criticism (arstechnica.com),12,21,4
-124,Emacs Microfeature (borretti.me),51,24,12
-125,"Zeekr 007: This $36,000 Tesla Model 3 Competitor Proves We're Cooked (insideevs.com)",28,23,20
-126,Paradox of Thrift (wikipedia.org),16,4,8
-127,Photoshop is SPYING on you now (twitter.com/grummz),21,21,13
-128,eBay will no longer accept American Express cards over 'unacceptably high' fees (theverge.com),12,19,4
-129,Whitney Stratifications and Intersection Homology (2023) [pdf] (ethz.ch),22,15,14
-130,DHCPv6-PD – First Steps (sha256.net),41,86,1
-131,JSON extra uses orjson instead of ujson (2019) (github.com/pydantic),40,68,1
-132,Bit-twiddling abstract addition with unknown bits (2020) (dougallj.wordpress.com),68,65,2
-133,Oklahoma Stakes Its Claim to the Tallest Building in the U.S. (nytimes.com),16,19,8
-134,Reko – A General Purpose Decompiler (github.com/uxmal),34,9,1
-135,"Paris Closed 100 Streets to Cars for Good. Now, the City Is a Cyclists' Paradise (bicycling.com)",27,84,19
-136,Apple's Latest Macs and iPads Have Hidden Smart Home Thread Radio (macrumors.com),40,49,1
-137,Israel reportedly used fake social accounts to garner support from US lawmakers (haaretz.com),51,709,1
-138,Attacking Android Binder (withgoogle.com),69,92,2
-139,FBI raids Atlanta corporate landlord in probe of rental market price fixing (entrepreneur.com),61,246,2
-140,"France will send Mirage fighter jets to Ukraine, Macron says (politico.eu)",19,33,11
-141,Static single assignment for functional programmers (2011) (wingolog.org),44,8,1
-142,Accidental prompt injection against RAG applications (simonwillison.net),25,29,17
-143,Diamond industry 'in trouble' as lab-grown gemstones tank prices further (cnbc.com),48,85,1
-144,An animated introduction to Fourier series (andreinc.net),67,586,2
-145,Nicegui.io (nicegui.io),42,8,1
-146,China Is Losing the Chip War (theatlantic.com),14,9,6
-147,Debian's /tmpest in a teapot (lwn.net),67,199,2
-148,FEX: Fast x86 emulation front end (github.com/fex-emu),47,8,1
-149,"I'm a lazy front end dev, so I built ProtoUI to code for me (protoui.dev)",43,8,1
-150,Best Buy is shutting down its Samsung repair program (theverge.com),13,20,5
+1,Ice - open source bar manager for macOS (github.com/jordanbaird),13,249,5
+2,GNU Justified Public License (tom7.org),11,54,3
+3,CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs (github.com/sosy-lab),16,95,8
+4,I learned Vulkan and wrote a small game engine with it (edw.is),31,520,22
+5,Roman Roads (2017) (sashamaps.net),28,398,20
+6,Alan Turing died 70 years ago (wikipedia.org),8,7,28
+7,AeroSpace is an i3-like tiling window manager for macOS (github.com/nikitabobko),29,413,21
+8,Extracting concepts from GPT-4 (openai.com),25,307,17
+9,Saint Michael Sword: Are the cathedrals really on a straight line? (geospatial.netlify.app),32,334,1
+10,"lsix: Like ""ls"", but for images (github.com/hackerb9)",26,268,18
+11,Show HN: 2d web paddle game (raould.github.io),58,231,17
+12,Don Estridge: A misfit who built the IBM PC (every.to/the-crazy-ones),31,206,21
+13,Super Heavy has splashed down in The Gulf of Mexico (twitter.com/spacex),29,702,21
+14,"Brain overgrowth dictates autism severity, new research suggests (medicalxpress.com)",30,153,22
+15,Samsung union stages its first ever strike (theregister.com),9,7,1
+16,Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager,17,0,9
+17,Let rand = main as usize (2022) (codeandbitters.com),24,123,16
+18,"Show HN: XPipe, a brand-new type of remote file browser and shell connection hub (xpipe.io)",25,97,17
+19,"Martha Gellhorn, the only woman to report on the D-Day landings from the ground (smithsonianmag.com)",28,138,20
+20,Understanding QEMU Devices (2018) (qemu.org),32,154,1
+21,Generative AI Handbook: A Roadmap for Learning Resources (genai-handbook.github.io),17,24,9
+22,Shu Ha Ri (2014) (martinfowler.com),21,61,13
+23,Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te (pentagrid.ch),58,79,19
+24,Hybrid Bonding: 3D Chip Tech to Save Moore's Law (ieee.org),54,27,13
+25,Dragonfly: A large vision-language model with multi-resolution zoom (together.ai),23,124,15
+26,Show HN: Synthesize TikZ Graphics Programs for Scientific Figures and Sketches (github.com/potamides),29,114,21
+27,AI in software engineering at Google: Progress and the path ahead (research.google),23,168,15
+28,Reading awc (akamayu-ouo.srht.site),61,50,16
+29,Qwen2 LLM Released (qwenlm.github.io),26,229,18
+30,Uganda's surveillance state is built on national ID cards (bloomberg.com),18,123,10
+31,Compromised Visions Are Superior (ericnormand.substack.com),59,68,16
+32,"Squatting in Spain: Understanding Spain's ""okupas"" problem (idealista.com)",50,174,1
+33,Boeing Starliner launches first crewed mission (bbc.co.uk),51,635,1
+34,Desktop Linux is an Untapped Gold Mine (gebna.gg),11,63,3
+35,Make your program slower with threads (2014) (brooker.co.za),18,130,10
+36,Vulkan1.3 on the M1 in one month (rosenzweig.io),51,807,1
+37,The right not to be subjected to AI profiling based on publicly available data (springer.com),28,245,20
+38,Zig 0.13.0 Release Notes (ziglang.org),11,14,3
+39,TPM GPIO fail: How bad OEM firmware ruins Intel TPM security (mkukri.xyz),37,177,1
+40,Show HN: Interviews Chat – Never bomb another job interview with this AI copilot (interviews.chat),31,53,23
+41,Stupid Slow: The Perceived Speed of Computers (datagubbe.se),15,74,7
+42,3D Math Primer for Graphics and Game Development (2011) (gamemath.com),28,115,20
+43,The problem with lying is keeping track of all the lies (materialize.com),20,91,12
+44,Kling (Chinese Sora Alternative) (kuaishou.com),10,10,2
+45,Tesla Cybertruck Loses to Model X in Towing Range Test – Again (thedrive.com),18,34,10
+46,An Interview with Lola De La Mata about tinnitus (thequietus.com),23,112,15
+47,Mathematical Optimization for Cargo Ships (research.google),66,314,1
+48,"Most life on Earth is dormant, after pulling an 'emergency brake' (quantamagazine.org)",40,280,1
+49,Televised Music Is a Pointless Rigmarole (1968) (theparisreview.org),70,43,1
+50,Mitsubishi robot solves Rubik's Cube in 0.305s (soranews24.com),37,278,1
+51,Researchers to retract landmark Alzheimer's paper containing doctored images (science.org),46,279,1
+52,Show HN: Mark Scroll Positions (rugu.dev),46,31,20
+53,Computer Networks: A Systems Approach (2019) (systemsapproach.org),50,125,1
+54,"PSA: If you're a fan of ATmega, try AVR Dx (lcamtuf.substack.com)",39,143,1
+55,"Walmart Just Announced a Brand-New Way to Track Customers, & It All Starts Today (inc.com)",18,30,10
+56,Omakub – A Developer Setup for Ubuntu (omakub.org),44,99,1
+57,Costco is building out an ad business using its shoppers' data (marketingbrew.com),21,68,13
+58,Show HN: zfind – CLI like find but using SQL syntax and also does tar/zip (github.com/laktak),58,116,2
+59,US has the highest rate of maternal deaths among rich nations. Norway has zero (cnn.com),11,87,3
+60,What's Next for ASML? [video] (youtube.com),19,19,11
+61,Major cause of inflammatory bowel disease discovered (crick.ac.uk),48,54,1
+62,"A social app for creatives, Cara, grew 10x as artists tire of Meta's AI policies (techcrunch.com)",17,13,9
+63,Show HN: Foosbar – My autonomous foosball-playing robot (github.com/misprit7),51,314,1
+64,Microsoft AI spying scandal: time to rethink privacy standards (ieee.org),39,859,1
+65,Architectures for Central Server Collaboration (mattweidner.com),67,82,19
+66,ShadowFinder: Find possible locations of shadows around the world (github.com/bellingcat),70,70,1
+67,Dr. George Merryweather's 1851 Tempest Prognosticator (victorianweb.org),51,11,15
+68,Boeing's starliner docks at ISS after five thrusters unexpectedly shut off (gizmodo.com),22,113,14
+69,GLM-4-9B: open-source model with superior performance to Llama-3-8B (github.com/thudm),47,57,1
+70,We improved the performance of a userspace TCP stack in Go (coder.com),50,223,1
+71,Mike Lynch cleared in Autonomy fraud trial (theregister.com),22,47,14
+72,Implementing the Goodfellow GANs paper (ym2132.github.io),68,100,1
+73,Adobe responds to vocal uproar over new Terms of Service language (venturebeat.com),14,13,6
+74,Minimalistic Beat Maker (martinwecke.de),59,233,1
+75,History of the Paper Clip (2016) (officemuseum.com),50,79,1
+76,"Show HN: Archimede, the unobtrusive directory information fetcher (github.com/gennaro-tedesco)",21,4,13
+77,Our Man in Fotheringhay (literaryreview.co.uk),61,17,1
+78,CSS Cap Unit (ishadeed.com),45,40,1
+79,Durability of Polymers in the Space Environment [pdf] (nasa.gov),35,22,1
+80,Photoshop ToS grants Adobe access to user projects for 'content moderation' (nichegamer.com),42,220,1
+81,Mycotoxin contamination in organic and conventional cereal grain and products (wiley.com),41,30,1
+82,Show HN: I created this land use visualisation for the Netherlands (koenvangilst.nl),25,9,17
+83,Dutch political websites hit by cyber attacks as EU voting starts (cloudflare.com),22,19,14
+84,A primer on the next generation of antibodies (abhishaike.com),48,51,1
+85,"US Payroll Gains Not as Robust as Reported, New Data Suggest (bloomberg.com)",23,28,15
+86,Show HN: I built an app that personalizes home workouts (parianlabs.com),66,34,2
+87,My Programming Journey (gavinhoward.com),57,32,23
+88,"Entropy, a CLI that scans files to find high entropy lines (might be secrets) (github.com/ewenquim)",70,241,2
+89,How Much Water Is in Earth's Crust? (worldatlas.com),29,38,21
+90,"Show HN: Laudspeaker – Open-source mobile push, SMS and email automation (github.com/laudspeaker)",51,189,1
+91,Third-country imports apply pressure amidst German aluminium production decline (packagingeurope.com),47,17,1
+92,NASA Software Safety Guidebook [pdf] (nasa.gov),29,46,21
+93,Mexico man dies from first human case of bird flu strain H5N2 (theguardian.com),28,33,20
+94,Particle accelerators for the microchip era (moore.org),70,110,2
+95,How big a deal was the Industrial Revolution? (2017) (lukemuehlhauser.com),47,88,1
+96,What no one has seen before: gravitational waveforms from warp drive collapse (arxiv.org),52,157,1
+97,Managing my motivation as a solo dev (mbuffett.com),50,319,1
+98,Hetzner lowers pricing of Intel cloud servers (hetzner.com),34,70,1
+99,Jury Finds Boeing Stole Tech from Electric Airplane Startup (govtech.com),46,124,1
+100,The secret D-Day scientists and engineers (bbc.com),27,29,19
+101,Simple tasks showing reasoning breakdown in state-of-the-art LLMs (arxiv.org),52,360,1
+102,Telegram Stars: Pay for Digital Goods and More (telegram.org),25,55,17
+103,Arm64 on GitHub Actions (github.blog),61,245,2
+104,LLM Running for Wyoming Mayor (oilcity.news),20,13,12
+105,Feature flags in Bazel builds (pigweed.dev),47,44,1
+106,"Miyazaki Might Be Right: Cases of a Town, a City, a Province, & a Country (population.fyi)",48,49,1
+107,Sui – The Next Generation Shortcut User Interface (github.com/shortcutui),39,12,1
+108,Humane Seeks $1B Buyout (nytimes.com),14,6,6
+109,Workplace discrimination: another terrible thing Windows Recall might enable (ericwbailey.website),17,11,9
+110,Researchers identify major driver of inflammatory bowel and related diseases (theguardian.com),50,231,1
+111,Artists are fleeing Instagram to keep their work out of Meta's AI (washingtonpost.com),29,66,21
+112,Prototype of AROS ABIv0 emulator for 64-bit AROS (arosworld.org),52,28,1
+113,Stable Audio Open (stability.ai),49,192,1
+114,Some notes on influenceering (lcamtuf.substack.com),69,260,2
+115,"Adam Smith, the Prophet of Profit (historytoday.com)",37,13,1
+116,Linguistic Antipatterns (linguistic-antipatterns.com),16,19,8
+117,Show HN: I built a tool for (formal) model-based specification and testing (provengo.tech),27,6,19
+118,Show HN: Pipedream now has 2100+ API integrations (pipedream.com),44,17,1
+119,Evidence of Earth's First Rains Found Trapped Within Primordial Crystals (sciencealert.com),16,5,8
+120,Primitive Technology: Making Charcoal in a Closed Pot [video] (youtube.com),16,5,8
+121,How the Fourier Transform Works: Abstract Concepts Made Simple (howthefouriertransformworks.com),14,12,6
+122,You'll regret using natural keys (ploeh.dk),64,722,2
+123,Blistering fast Mandelbrot rendering in Rust (2021) (gcardone.net),48,12,1
+124,"Stress bragging may make you seem less competent, less likable at work (phys.org)",22,7,14
+125,DHCPv6-PD – First Steps (sha256.net),44,88,1
+126,Photoshop is SPYING on you now (twitter.com/grummz),23,23,15
+127,Shopify is acquiring the Threads team (threads.com),14,63,6
+128,Bit-twiddling abstract addition with unknown bits (2020) (dougallj.wordpress.com),70,65,2
+129,"Zeekr 007: This $36,000 Tesla Model 3 Competitor Proves We're Cooked (insideevs.com)",31,23,23
+130,JSON extra uses orjson instead of ujson (2019) (github.com/pydantic),43,68,1
+131,Apple's Latest Macs and iPads Have Hidden Smart Home Thread Radio (macrumors.com),43,49,1
+132,Israel reportedly used fake social accounts to garner support from US lawmakers (haaretz.com),53,711,1
+133,Emacs Microfeature (borretti.me),54,24,14
+134,Political elites take advantage of anti-partisan protests to disrupt politics (phys.org),20,6,12
+135,Reko – A General Purpose Decompiler (github.com/uxmal),37,9,1
+136,Attacking Android Binder (withgoogle.com),71,92,2
+137,Whitney Stratifications and Intersection Homology (2023) [pdf] (ethz.ch),25,15,17
+138,Read James Joyce's Filthy Letters to His Wife Nora Barnacle (allthatsinteresting.com),18,6,10
+139,"I'm a lazy front end dev, so I built ProtoUI to code for me (protoui.dev)",46,9,1
+140,FBI raids Atlanta corporate landlord in probe of rental market price fixing (entrepreneur.com),63,246,2
+141,Show HN: The ultimate match between fzf and gh CLI (github.com/gennaro-tedesco),32,4,1
+142,"Paris Closed 100 Streets to Cars for Good. Now, the City Is a Cyclists' Paradise (bicycling.com)",29,84,21
+143,Static single assignment for functional programmers (2011) (wingolog.org),47,8,1
+144,Paradox of Thrift (wikipedia.org),18,4,10
+145,An animated introduction to Fourier series (andreinc.net),69,586,2
+146,Diamond industry 'in trouble' as lab-grown gemstones tank prices further (cnbc.com),51,85,1
+147,Google is working on Recall-like feature for Chromebooks (pcworld.com),23,11,15
+148,Debian's /tmpest in a teapot (lwn.net),70,199,2
+149,Nicegui.io (nicegui.io),45,8,1
+150,Oklahoma Stakes Its Claim to the Tallest Building in the U.S. (nytimes.com),19,19,11
