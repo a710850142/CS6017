@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Car Sales Data Visualization</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    .container {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+    }
+    .chart {
+      width: 45%;
+      min-width: 400px;
+    }
+    .tooltip {
+      position: absolute;
+      background-color: rgba(255, 255, 255, 0.8);
+      border: 1px solid #ddd;
+      padding: 10px;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+<h1>Car Sales Data Visualization</h1>
+<div class="container">
+  <div id="barChart" class="chart"></div>
+  <div id="scatterPlot" class="chart"></div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
